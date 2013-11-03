@@ -1,0 +1,17 @@
+{
+  "name": "mac-addr",
+  "main": "index.js",
+  "version": "0.0.1",
+  "homepage": "https://github.com/baslr/bower-mac-addr",
+  "description": "generate mac addresses in the browser",
+  "keywords": [
+    "macaddress",
+    "mac",
+    "address",
+    "generate"
+  ],
+  "authors": [
+    "Manuel Baesler"
+  ],
+  "license": "AGPL3"
+}
